@@ -1,0 +1,23 @@
+
+a:hover, a:visited, a:link, a:active
+{
+    color: white;
+    text-decoration: none;
+}
+
+.carousel-item img {
+  min-height: 200px;
+  object-fit: cover;
+  position: absolute;
+}
+
+.carousel .carousel-item {
+  height: 500px;
+}
+
+
+.navbar-expand-lg .navbar-nav .nav-link {
+   font-weight: 600;
+}
+
+  
